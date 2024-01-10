@@ -16,6 +16,9 @@ public class Ractangle extends Shape{
 				+ " #가로:" + width 
 				+" #세로:" + height + "그렸습니다.");                                                                        
 	}
+	public void draw() {
+		System.out.println("sr1의 가로는 " + width + "입니다.");
+	};
 		
 
 }
