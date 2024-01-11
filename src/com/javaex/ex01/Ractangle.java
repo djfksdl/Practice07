@@ -5,6 +5,7 @@ public class Ractangle extends Shape{
 	private int width;
 	private int height;
 	
+
 	public Ractangle(String fillColor, int width, int height){
 		super(fillColor);
 		this.width=width;
